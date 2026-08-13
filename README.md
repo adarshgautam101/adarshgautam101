@@ -3,7 +3,7 @@
   <h3>Full Stack MERN Developer | AI & LLM Integrations</h3>
 
   <p align="center">
-    <a href="mailto:adarshrajgautam01@gmail.com"><img src="https://img.shields.io/badge/Email-adarshrajgautam01%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:adarsh.gautam.cse@gmail.com"><img src="https://img.shields.io/badge/Email-adarshrajgautam01%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/adarshgautam101"><img src="https://img.shields.io/badge/GitHub-adarshgautam101-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
