@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Adarsh Gautam</h1>
-  <h3>Software Engineer | Full Stack & MERN Developer</h3>
+  <h1>Hi there , I'm Adarsh Gautam</h1>
+  <h3>Software Engineer | Full Stack Developer</h3>
 
   <p align="center">
     <a href="https://portfolioadarshg.netlify.app/" target="_blank">🌐 <b>Portfolio Website</b></a> &nbsp;|&nbsp; 
