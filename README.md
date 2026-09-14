@@ -43,6 +43,6 @@
 
 ### 🌐 Connect With Me
 
-- 🌐 **Portfolio**: [portfolioadarshg.netlify.app](https://portfolioadarshg.netlify.app/)
+- 🌐 Portfolio: [portfolioadarshg.netlify.app](https://portfolioadarshg.netlify.app/)
 - 📧 **Email**: [adarsh.gautam.cse@gmail.com](mailto:adarsh.gautam.cse@gmail.com)
 - 🐙 **GitHub**: [github.com/adarshgautam101](https://github.com/adarshgautam101)
